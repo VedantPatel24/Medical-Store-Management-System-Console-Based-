@@ -15,5 +15,3 @@ This is a simple **Java-based Medical Store Management System** built using **co
 - **Java** (Core Java, File Handling, OOP)
 - Console-based interface (no GUI)
 
-## 📁 Project Structure
-
