@@ -1,1 +1,1 @@
-# Medical-Store-Management-System-Console-Based-
+# Medical-Store-Management-System-Console-Based
